@@ -1,0 +1,6 @@
+Power_category;TRX_duration_median;TRX_quantity_median;TRX_price_median;TRX_starttime_median
+-;h;kWh;€;h
+AC_slow_charge;3.25;11;7.1;11.8
+AC_fast_charge;0.6;4;1.9;12.6
+DC_charge;0.7;19;9.4;12.6
+DC_HPC;0.5;29;15;13.4
